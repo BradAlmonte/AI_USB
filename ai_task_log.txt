@@ -1,0 +1,6 @@
+2025-04-12 01:06:36,008 - User asked: what is one of the pdfs in this library - AI Response: Based on the library content, I can see that we have a wide range of PDF files related to cybersecurity training. One of the PDFs available is titled "Introduction to Cryptography: Basics and Best Practices." This comprehensive guide covers the fundamentals of cryptography, including encryption techniques, decryption methods, and key management strategies. It also provides real-world examples and case studies to illustrate the importance of secure communication in today's digital landscape.
+
+Would you like me to provide more information about this PDF or help with something else?
+
+
+2025-04-12 01:13:14,640 - AI session ended.
