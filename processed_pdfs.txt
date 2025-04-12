@@ -1,0 +1,104 @@
+01. Advanced Penetration Testing.pdf
+02. The Basics of Web Hacking.pdf
+03. The Basics of Hacking and Penetration Testing.pdf
+04. The Art of Deception by Kevin Mitnick.pdf
+05. SQL Injection Attacks and Defense.pdf
+06. Metasploit - The Penetration Tester's Guide.pdf
+07. Ethical Hacking and Penetration Testing Guide.pdf
+08. Network Attacks and Exploitation.pdf
+09. Python Web Penetration Testing Cookbook.pdf
+10. Wireshark for Security Professionals.pdf
+100. becoming-master-hacker.pdf
+101. EN-Ethical Hacking.pdf
+102. gray-hat-hacking.pdf
+103. Hacking - Beginner to Expert Guide to Computer Hacking, Basic Security, and Penetration Testing (Computer Science Series) by James Patterson.pdf
+104. Hacking For Dummies- 3rd Edition.pdf
+105. Hacking_the_Hacker.pdf
+106. Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson.pdf
+11. Modern Web Penetration Testing.pdf
+12. The Shellcoder's Handbook.pdf
+13. The Little Black  Book of Computer Viruses.pdf
+14. XSS Attacks - Cross Site Scripting Exploits and Defense.pdf
+15. The Web Application Hacker's Handbook.pdf
+16. Ethical Hacking and Countermeasures.pdf
+17. Reversing - Secrets of Reverse Engineering.pdf
+18. Network Security Bible.pdf
+19. Hacking Web Applications - Hacking Exposed.pdf
+20. Hacking for Dummies.pdf
+21. Hacking Wireless Networks for Dummies.pdf
+22. Ninja Hacking - Unconventional Penetration Testing Tacting and Techniques.pdf
+23. Professional Penetration Testing.pdf
+24. Gray Hat Hacking - The Ethical Hakcer's Handbook.pdf
+25. Hack Attacks Testing.pdf
+27. Mastering Kali Linux For Advanced Penetration Testing.pdf
+28. Kali Linux CTF Blueprints.pdf
+29. Kali Linux Cookbook.pdf
+30. Kali Linux- Assuring Security by Penetration Testing.pdf
+31. Information Security Management Handbook.pdf
+32. Computer.and.Information.Security.Handbook.pdf
+33. CISSP - Certified Information Systems Security Professional Study Guide.pdf
+34. Computer Security and Cryptography.pdf
+35. Python for Kids.pdf
+36. End to End Network Security - Defense-In-Depth.pdf
+37. A Guide to Computer Network Security.pdf
+38. Essential Computer Security.pdf
+39. Security in Wireless Mesh Networks.pdf
+40. Hacking Windows XP.pdf
+41. Hacking Exposed - Windows Security Secrets & Solutions.pdf
+42. Hacking Exposed - Network Security Secrets & Solutions.pdf
+43. Information Security - Principles and Practice.pdf
+44. Nessus, Snort and Ethereal Power Tools.pdf
+45. Active Defense - A Comprehensive Guide to Network Security.pdf
+46. Information Security Fundamentals.pdf
+47. Wireless Network Security.pdf
+48. Red Hat Linux Security and Optimization.pdf
+49. Windows Forensics Analysis.pdf
+50. Mobile and Wireless Network Security and Privacy.pdf
+51. Firewalls and Internet Security.pdf
+52. An Introduction To Computer Security - The NIST Handbook.pdf
+53. Unauthorized Access - Physical Penetration Testing for IT Security Teams.pdf
+54. Testing Web Security.pdf
+55. Maximum Security - A Hacker's Guide to Protecting Your Internet Site and Network.pdf
+56. Information Resource Guide - Computer, Internet and Network Systems Security.pdf
+57. The Hacker's Underground Handbook.pdf
+58. Guide to SCADA and Industrial Control Systems Security.pdf
+59. The International Handbook of Computer Security.pdf
+60. The Code Book - How to Make It, Break It, Hack It, Crack It.pdf
+61. Linux 101 Hacks.pdf
+62. Introduction to Linux - A Hands on Guide.pdf
+63. Bluetooth Security.pdf
+64. IT Governance - A Manager's Guide to Data Security and ISO 27001 and 27002.pdf
+65. Batch File Programming.pdf
+66. Cracking the Coding Interview.pdf
+67. Dictionary of Networking.pdf
+68. Hacking Gmail.pdf
+69. Linux Complete Command Reference.pdf
+70. Practical Hacking Techniques and Countermeasures.pdf
+71. The Art of Intrusion by Kevin Mitnick.pdf
+72. Hack Notes - Windows Security Portable Reference.pdf
+73. Hacking - The Next Generation.pdf
+75. Hackers Beware - Defending Your Network From The Wiley Hacker.pdf
+76. Hack Proofing Your Network.pdf
+77. Hack Attacks Revealed.pdf
+78. Dissecting the Hack - The F0rb1dd3n Network.pdf
+79. The TCP-IP Guide.pdf
+80. Offensive Security - Wireless Attacks - WiFu.pdf
+81. Google Hacking - For Penetration Testers.pdf
+82. Computer Forensics- Investigating Network Intrusions and Cyber Crime.pdf
+83. Hakin9 Bible.pdf
+84. Network Forensics - Tracking Hackers Through Cyberspace.pdf
+85. Computer Forensics - Investigating Data and Image Files.pdf
+86. Penetration Testing and Network Defense.pdf
+87. Hacking Exposed - Malware and Rootkits.pdf
+88. Malware Analyst's Cookbook.pdf
+89. Mobile Malware - Attacks and Defense.pdf
+90. Java 2 Network Security.pdf
+91. A Bug Hunter's Diary.pdf
+92. Viruses Revealed - Undestand and Counter Malicious Software.pdf
+93. Digital Forensics With Open Source Tools.pdf
+94. SSH, The Secure Shell - The Definitive Guide.pdf
+95. Pro PHP Security.pdf
+96. Zero Day Exploit - Countdown to Darkness.pdf
+97. Metasploit Penetration Testing Cookbook.pdf
+98. 24 Deadly Sins of Software Security.pdf
+99. Botnets - The Killer Web App.pdf
